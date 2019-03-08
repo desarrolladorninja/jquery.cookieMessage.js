@@ -83,7 +83,7 @@
         });
 
         $("#cookie-msg a.btn-aceptar").on("click", function(){
-            var coo = setCookie(cookieName, true, settings.expirationDays);
+            var coo = setCookie(settings.cookieName, true, settings.expirationDays);
             $("#cookie-msg").remove();
 
             return false; 
