@@ -38,3 +38,4 @@ $.cookieMessage({
 });
 </script>
 ```
+Este pluging a sido desarrollado por el <a href="https://desarrollador.ninja/">desarrollador ninja</a>.
